@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar2</string>
+    <string name="this_is_screen_1">This is screen 1</string>
+    <string name="navigate_to_screen_2">Navigate to screen 2</string>
+</resources>
